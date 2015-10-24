@@ -54,10 +54,10 @@ The main objective for this assessment is to achieve your ToDo App exercise desi
 Maximum **5 hours**
 
 # Preparation
-1) Coordinate with your mentor to setup your assessment.
+1) Coordinate with your mentors for setting up your assessment.
 
 
-2) Fork this repo out by clicking the "Fork" button on the top on the GitHub page.
+2) Fork this repo out by clicking the "Fork" button on the top on the GitHub page. Ask help when needed.
 
 
 3) Open a new terminal for your assessment.
@@ -100,6 +100,10 @@ $ cd <repo-name>
 >
 > User will execute only "**ruby todo.rb**" to run your app.
 
+
+    7.1) Explore and try to understand the framework. Figure out what defines controller, models and views.
+    7.2) Observe the demo codes and figure out how they require one another.
+    7.3) Once done, begin your coding.
 
 <br />
 8) Once done, perform your last "git push" to your repo.
