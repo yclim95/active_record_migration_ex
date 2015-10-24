@@ -1,3 +1,7 @@
+# Pre-configurations (Do not change)
 require_relative 'config/application'
 
-puts "Put your application code in #{File.expand_path(__FILE__)}"
+
+# Your Code begins from this line onwards #
+app = Controller.new
+app.control
