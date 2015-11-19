@@ -1,6 +1,8 @@
-This is an assessment focusing on building a simple To-Do List ruby app using ActiveRecord with SQL database.
+This is an open-book **checkpoint** assessment focusing on building a simple To-Do List ruby app using ActiveRecord with SQL database.
 
-Included is the todo framework for your assessment, sourced and upgraded from NEXTAcademy "Ar-ToDo" skeleton.
+The intention of this assessment is to establish an awareness for your current understanding and how would you progress more effectively in the coming week. Once you're aware your points of improvement, you can spend more time during the weekend to improve. **There is no pass or fail cases so breath out.** Chillax. =)
+
+Included is the todo framework for the assessment, sourced and upgraded from NEXTAcademy "Ar-ToDo" skeleton.
 
 # Purpose
 The test is to ensure you are familiar with the basic of ActiveRecord working with the database like sqlite3 using Ruby. At the end of the assessment, you should be able to:
@@ -30,12 +32,18 @@ The test is to ensure you are familiar with the basic of ActiveRecord working wi
     3.2) Able to explain and show critical points for database table creation
     3.3) Able to explain and show critical points for model and database relation
 
-4) Able to arrange your Object Classes according to MVC frameworks
+4) Able to arrange your Object Classes according to MVC frameworks (Optional - Only when you have time)
 
-    4.1) Able to arrange control type classes into controller folder.
-    4.2) Able to arrange model type classes into model folder.
-    4.3) Able to arrange printer type classes into views folder.
-    4.4) Able to operate all classes from all MVC folders.
+> **Note**:
+> 
+> If you do not wish to pursue this section, you can squeeze everything inside your controller folder, leaving the 
+> view folder empty.
+
+    4.1) Able to find information to learn about MVC models.
+    4.2) Able to arrange control type classes into controller folder.
+    4.3) Able to arrange model type classes into model folder.
+    4.4) Able to arrange printer type classes into views folder.
+    4.5) Able to operate all classes from all MVC folders.
 
 
 # Objectives
@@ -101,9 +109,14 @@ $ cd <repo-name>
 > User will execute only "**ruby todo.rb**" to run your app.
 
 
-    7.1) Explore and try to understand the framework. Figure out what defines controller, models and views.
+    7.1) Explore and try to understand the framework, observe the structure. (See Tips)
     7.2) Observe the demo codes and figure out how they require one another.
     7.3) Once done, begin your coding.
+
+>**TIP**:
+>
+> There is one missing folder for database migration.
+> Perhaps you can check out your past homework in regards of the missing folder.
 
 <br />
 8) Once done, perform your last "git push" to your repo.
